@@ -1,0 +1,5 @@
+# Project exclude paths
+/gmail-interface/target/
+/order-service-consumer/target/
+/user-service-provider/target/
+/user-service-provider2/target/
